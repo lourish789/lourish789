@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Flourish Olaiya
-- 👀 I am a an AI Engineer
+- 👀 I am an AI Engineer
 - 💞️ I’m looking to collaborate on Computer Vision and NLP projects
 - 📫 flourisholaiya@gmail.com
 
